@@ -16,3 +16,5 @@ A very simple web app that fetches and displays NASA’s Astronomy Picture of th
 - JavaScript
 - NASA Open API
 
+
+![Screenshot of the app](resources/screenshot_apod)
